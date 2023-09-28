@@ -13,6 +13,7 @@ function App() {
 
         <LateralEsquerda />
         <ConteudoCentral />
+        <LateralDireita />
 
         <div className="ConteudoDireito">Exemplo de Conteúdo da direita</div>
 
